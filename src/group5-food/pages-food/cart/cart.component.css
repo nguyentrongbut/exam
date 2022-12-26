@@ -1,0 +1,12 @@
+.container {
+  border: 1px rgba(0, 0, 0, 0.25) solid;
+}
+.icon i {
+  font-size: 50px;
+}
+.text {
+  margin-left: 2rem;
+}
+.bd {
+  border-bottom: 1px rgba(0, 0, 0, 0.25) solid;
+}
